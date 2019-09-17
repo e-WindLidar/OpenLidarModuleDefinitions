@@ -1,9 +1,11 @@
 # Synopsis
 _A short introduction to the module's purpose_
+
 The Chassis module is responsible for the various mounting solutions for the lidar, including, but not limited to, mounting on a nacelle, a meteorological tower, the ground, a floating platform, or a mobile structure. The module must contain accelerometers and other sensors that can be interfaced with the Control module in order to adjust for measurement errors due to the movement of the lidar system. In addition to this, it should contain stabilizers and mechanisms for easy and secure installation, and should be operate in a wide range of atmospheric conditions.
 
 # Glossary of Terms
 _A list of terms that are specific to this module_
+
 There are no specific terms to mention at this time.
 
 # Interfaces
@@ -32,3 +34,4 @@ The following documentation is required (marked with a star) or suggested.
 - **Safety** includes all applicable safety information
 - **References** provide links to articles and other relevant information.
 
+  
