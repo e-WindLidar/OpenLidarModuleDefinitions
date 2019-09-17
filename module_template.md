@@ -26,6 +26,9 @@ The following documentation is required (marked with a star) or suggested.
 - **Contacts** information about the contact person or organzation responsible for this module.
 - **Design Space** discusses the operating conditions for the module.
 - **Detailed Information** discusses the details of the module, including suggestions that may be implemented to accomplish its roles in the lidar system.
-- **Interfaces** discusses how the module is connected to other parts of the OpenLidar architecture.
+  - **Hardware**
+  - **S oftware**
+  - **Controller**
+  - **Interfaces** discusses how the module is connected to other parts of the OpenLidar architecture.
 - **Safety** includes all applicable safety information
 - **References** provide links to articles and other relevant information.
