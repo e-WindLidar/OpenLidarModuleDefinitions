@@ -4,6 +4,9 @@ This repository contains the definitions of the OpenLidar modules.
 This includes information about the generic purpose of the modules and how implementations of the modules should be documented.
 
 # How OpenLidar Works
+OpenLidar is a concept for a modular lidar to enable collaboration and cooperation on wind lidar device hardware and software.
+
+![The OpenLidar system limits](OpenLidarSystemBounds.png)
 
 ## The OpenLidar Modular Architecture
 
@@ -23,6 +26,7 @@ There are 11 modules in OpenLidar. More details about each module are provided a
 10. [Housing](module_housing.md): Weather protection and environmental conditioning.
 11. [Chassis](module_chassis.md): Physical carrier for the modules.
 
+These definitions are not complete. We welcome feedback on the description of each module and the content of the files. If you have comments, please [open an issue](https://github.com/OpenWindLidar/ModuleDefinitions/issues).
 
 # To provide feedback
 Please [open an issue](https://github.com/OpenWindLidar/ModuleDefinitions/issues).
