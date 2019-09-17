@@ -1,6 +1,7 @@
 # Synopsis
 _A short introduction to the module's purpose_
-The photoics module is the source of emitted light that will be used for the measurements.
+
+The photonics module is the source of emitted light that will be used for the measurements.
 
 # Glossary of Terms
 _A list of terms that are specific to this module_
