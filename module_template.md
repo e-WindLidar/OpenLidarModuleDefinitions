@@ -1,19 +1,25 @@
 # Synopsis
-_a short introduction to the module's purpose_
+_A short introduction to the module's purpose_
 
 # Glossary of Terms
-_This section describes terms that are specific to this module_
+_A list of terms that are specific to this module_
 1. blah
 2. blah
 
 # Interfaces
-_This section describes how the module is linked to other parts of the OpenLidar architecture_
+_How the module is linked to other parts of the OpenLidar architecture_
 
 # Safety
-_This section describes the safety concerns of the module, and suggestions for mitigating any possible risks_
+_A list of possible safety issues related to the module and suggestions for mitigating any possible risks_
+
+# This module is...
+_A list 
+
+# This module is not...
+
 
 # Documentation
-_This section describes how a specific implementation of this module should be documented. It should be adjusted for each module as required._
+_How a specific implementation of this module should be documented. It should be adjusted for each module as required._
 
 The following documentation is required (marked with a star) or suggested.
 - **High Level Overview** discusses the main functions of the module and its constituent components.
