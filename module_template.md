@@ -12,11 +12,15 @@ _How the module is linked to other parts of the OpenLidar architecture_
 # Safety
 _A list of possible safety issues related to the module and suggestions for mitigating any possible risks_
 
-# This module is...
+# FAQ
+## This module is...
 _A list of things that do belong to the module_
 
-# This module is not...
-_A list of things that are not part of the module. Use issues, etc. for evidence_
+## This module is not...
+_A list of things that are not part of the module._
+
+## Other questions
+_Relevant questions in an FAQ format_
 
 # Documentation
 _How a specific implementation of this module should be documented. It should be adjusted for each module as required._
@@ -27,8 +31,11 @@ The following documentation is required (marked with a star) or suggested.
 - **Design Space** discusses the operating conditions for the module.
 - **Detailed Information** discusses the details of the module, including suggestions that may be implemented to accomplish its roles in the lidar system.
   - **Hardware**
-  - **S oftware**
+  - **Software**
   - **Controller**
   - **Interfaces** discusses how the module is connected to other parts of the OpenLidar architecture.
 - **Safety** includes all applicable safety information
 - **References** provide links to articles and other relevant information.
+
+# Known examples of this module
+_A list of projects or products that have implemented this module_
