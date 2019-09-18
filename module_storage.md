@@ -22,15 +22,19 @@ The storage module must have insulated power outlets in order to ensure that no 
 
 The storage module must be robust enough to not lose any data or functionality while in the operating conditions of the lidar device.
 
-# This module is...
+# FAQ
+## This module is...
 _A list of things that do belong to the module_
 
 - anything required to store data, for example HD, SSD, compact flash, etc.
 
-# This module is not...
+## This module is not...
 _A list of things that are not part of the module. Use issues, etc. for evidence_
 
 - responsible for communication of the saved data outside of the lidar. This is enabled by the [communications module](module_communications.md).
+
+## Other questions
+_Relevant questions in an FAQ format_
 
 # Documentation
 _How a specific implementation of this module should be documented. It should be adjusted for each module as required._
@@ -46,3 +50,6 @@ The following documentation is required (marked with a star) or suggested.
   - **Interfaces** discusses how the module is connected to other parts of the OpenLidar architecture.
 - **Safety** includes all applicable safety information
 - **References** provide links to articles and other relevant information.
+
+# Known examples of this module
+_A list of projects or products that have implemented this module_
