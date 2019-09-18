@@ -17,16 +17,19 @@ The lidar optics should be sized and specified according to the laser frequency,
 # Safety
 _A list of possible safety issues related to the module and suggestions for mitigating any possible risks_
 
-# This module is...
+# FAQ
+## This module is...
 _A list of things that do belong to the module_
 
 - The optics module includes all optical components on the transmitted and received paths. 
 
-# This module is not...
+## This module is not...
 _A list of things that are not part of the module. Use issues, etc. for evidence_
 
 - intended to orient the beam; this is carried out by the [scanner module](module_scanner.md).
 
+## Other questions
+_Relevant questions in an FAQ format_
 
 # Documentation
 _How a specific implementation of this module should be documented. It should be adjusted for each module as required._
@@ -42,3 +45,6 @@ The following documentation is required (marked with a star) or suggested.
   - **Interfaces** discusses how the module is connected to other parts of the OpenLidar architecture.
 - **Safety** includes all applicable safety information
 - **References** provide links to articles and other relevant information.
+
+# Known examples of this module
+_A list of projects or products that have implemented this module_
