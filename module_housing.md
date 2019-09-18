@@ -16,10 +16,11 @@ _A list of possible safety issues related to the module and suggestions for miti
 
 Opening the housing could expose internal components to the weather, or expose users to high voltages, laser light, or other risks. The housing should therefore be interconnected with the rest of the device to help ensure safe operation.
 
-# This module is...
+# FAQ
+## This module is...
 _A list of things that do belong to the module_
 
-# This module is not...
+## This module is not...
 _A list of things that are not part of the module. Use issues, etc. for evidence_
 
 # Documentation
@@ -36,3 +37,6 @@ The following documentation is required (marked with a star) or suggested.
   - **Interfaces** discusses how the module is connected to other parts of the OpenLidar architecture.
 - **Safety** includes all applicable safety information
 - **References** provide links to articles and other relevant information.
+
+# Known examples of this module
+_A list of projects or products that have implemented this module_
