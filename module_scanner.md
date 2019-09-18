@@ -7,8 +7,7 @@ The scanner may be capable of one or more degrees of freedom.
 
 # Glossary of Terms
 _A list of terms that are specific to this module_
-1. blah
-2. blah
+1. 
 
 # Interfaces
 _How the module is linked to other parts of the OpenLidar architecture_
@@ -20,15 +19,19 @@ The scanner is a moving item and there are therefore risks of pinching or trappi
 
 Removing the scanner may expose a user to laser light. The scanner should be integrated with the interlock system to prevent this from occuring.
 
-# This module is...
+# FAQ
+## This module is...
 _A list of things that do belong to the module. Use issues, etc. for reference_
 
 - any lenses, mirrors, or other devices designed to direct the transmitted or received beam
 - any device intended to keep the optical path clear and clean, such as a wiper, air jet, or other method
 - sometimes combined with the optics in a single housing
 
-# This module is not...
+## This module is not...
 _A list of things that are not part of the module. Use issues, etc. for reference_
+
+## Other questions
+_Relevant questions in an FAQ format_
 
 # Documentation
 _How a specific implementation of this module should be documented. It should be adjusted for each module as required._
@@ -44,3 +47,6 @@ The following documentation is required (marked with a star) or suggested.
   - **Interfaces** discusses how the module is connected to other parts of the OpenLidar architecture.
 - **Safety** includes all applicable safety information
 - **References** provide links to articles and other relevant information.
+
+# Known examples of this module
+_A list of projects or products that have implemented this module_
