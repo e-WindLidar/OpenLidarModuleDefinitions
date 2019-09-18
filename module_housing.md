@@ -1,7 +1,14 @@
 # Synopsis
 _A short introduction to the module's purpose_
 
-This module acts as the physical housing of all lidar components. Its primary functions are the protection of all modules from the environment and from interference. The housing is often a closed box that is sealed against the elements.
+This module acts as the physical housing of all lidar components. Its primary functions are:
+1. The protection of all modules from the environment (e.g. waterproofing, heating, cooling)
+2. From mechanical interference (e.g. by preventing tools, fingers, animals, etc. from gaining access)
+3. From radio-frequency interference (e.g. by providing a Faraday cage around the modules)
+
+The housing is often a closed box that is sealed against the elements.
+
+It is possible that there may be more than one housing in the lidar device, and that the housing is integrated with the different modules.
 
 # Glossary of Terms
 _A list of terms that are specific to this module_
