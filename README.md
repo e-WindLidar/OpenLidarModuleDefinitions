@@ -10,6 +10,10 @@ OpenLidar is based around a clearly defined modular architecture. This modular a
 
 ![The OpenLidar modular wind lidar architecture](OpenLidarModules.png)
 
+These modules can be combined into an individual - monolithic - lidar device, similar to commercial devices, or could be be combined into several units (below)
+
+![An example of an implementation of the OpenLidar concept (image by N. Vsailjevic, DTU)](OpenLidarExampleCropped.png)
+
 # The OpenLidar modules
 There are 11 modules in OpenLidar. More details about each module are provided at the linked pages.
 1. [Power](module_power.md): Power conversion and conditioning, current and voltage control
