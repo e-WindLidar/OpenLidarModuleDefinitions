@@ -16,11 +16,15 @@ _This section describes the safety concerns of the module, and suggestions for m
 
 There are two major safety concerns for this module. First, the motors driving the rotation platform should be enclosed so as to prevent injury while the lidar is operating. These motors should not be powerful enough to harm individuals should they become caught in moving parts. Second, heavy lifting attachments must be labeled to indicate weight limits and correct operating procedures.
 
-# This module is...
+# FAQ
+## This module is...
 _A list of things that do belong to the module_
 
-# This module is not...
+## This module is not...
 _A list of things that are not part of the module. Use issues, etc. for evidence_
+
+## Other questions
+_Relevant questions in an FAQ format_
 
 # Documentation
 _How a specific implementation of this module should be documented. It should be adjusted for each module as required._
@@ -34,4 +38,5 @@ The following documentation is required (marked with a star) or suggested.
 - **Safety** includes all applicable safety information
 - **References** provide links to articles and other relevant information.
 
-  
+# Known examples of this module
+_A list of projects or products that have implemented this module_
