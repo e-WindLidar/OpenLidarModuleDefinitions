@@ -1,11 +1,12 @@
-![OpenLidar Logo](OpenLidarLogo.png)
+![The OpenLidar Logo](OpenLidarLogo.png)
 
 # What is OpenLidar?
-OpenLidar is a concept for a modular wind lidar to enable collaboration and cooperation on device hardware and software.
+OpenLidar is a concept for a modular wind lidar to enable collaboration and cooperation on hardware and software. It is limited to the hardware and software that are part of the measurement device and is intended to link with the e-WindLidar ecosystem.
 
 ![The OpenLidar system limits](OpenLidarSystemBounds.png)
 
 ## The OpenLidar modular architecture
+OpenLidar is based around a clearly defined modular architecture. This modular architecture allows different groups to collaborate on the development of individual modules and then combine their modules into a functioining lidar system.
 
 ![The OpenLidar modular wind lidar architecture](OpenLidarModules.png)
 
